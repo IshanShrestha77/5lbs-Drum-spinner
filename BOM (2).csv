@@ -1,0 +1,20 @@
+Category,Component,Qty,Unit Price (USD),Total Min (USD),Total Max (USD),Supplier,Link,Notes
+Mechanical,Dartbox V2 Drive Unit (6mm),2,42.50,85.00,85.00,Just Cuz Robotics,https://reach.dog/shop/just-cuz-robotics/products/dartbox-squared-drive,Pick the 6mm shaft option; listing price may differ from estimate
+Mechanical,Dartbox Aluminium Motor Mount (Pair),1,12.00,12.00,12.00,Just Cuz Robotics,https://justcuzrobotics.com/,Store link only - search "motor mount" there
+Mechanical,BaneBots Wheels,2,2.70,5.40,5.40,BaneBots (RobotShop),https://jp.robotshop.com/en/products/rb-ban-91-orange-wheel,2-3/8 x 0.4in 1/2in hex mount - check size fits your chassis
+Mechanical,BaneBots 6mm Wheel Hubs,2,4.20,8.40,8.40,BaneBots (RobotShop),https://jp.robotshop.com/en/products/hex-hub-s40-6mm-2wide,S40 1/2in hex 6mm bore - must match wheel mount
+Mechanical,FingerTech Beater Bar Assembly,1,46.95,46.95,46.95,FingerTech (RobotShop),https://www.robotshop.com/products/fingertech-3lb-beater-bar-assembly,Linked one is the 3lb version - check size/weight fits 5lb design
+Mechanical,3D Printed Chassis & Top Plate,1 set,12-20,12.00,20.00,Self printed,,
+Electronics,Weapon Motor + ESC + Pulley + Belt,1 set,66.56,66.56,66.56,FingerTech (RobotShop),https://www.robotshop.com/products/fingertech-3lb-beater-bar-electronics,Set already includes its own ESC
+Electronics,Dual Drive ESC,1,40.00,40.00,40.00,ItGresa,https://itgresa.com/,Store link only - for drive motors only
+Electronics,LiPo Battery (3S),1,15.00,15.00,15.00,ItGresa,https://itgresa.com/,Store link only
+Electronics,FlySky Receiver,1,13.25,13.25,13.25,ItGresa,https://itgresa.com/,Store link only
+Electronics,FlySky Transmitter,1,43.99,43.99,43.99,ItGresa,https://itgresa.com/,Store link only
+Hardware & Wiring,"Screws, Connectors & Wiring",1 set,10-20,10.00,20.00,Various,,
+,,,,,,,,
+Subtotal,Mechanical,,,169.75,177.75,,,
+Subtotal,Electronics,,,178.79,178.79,,,
+Subtotal,Hardware & Wiring,,,10.00,20.00,,,
+TOTAL,Estimated project budget,,,358.54,376.54,,,Roughly $359-377. Excludes shipping/customs/taxes/import charges
+,,,,,,,,
+Note,Prices are approximate reference prices not guaranteed checkout prices. Final robot incl. battery must stay within 5lb limit.,,,,,,,
